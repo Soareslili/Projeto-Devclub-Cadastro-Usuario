@@ -36,7 +36,7 @@ function Home() {
       <TopBackground />
 
       <Form>
-        <Title>Cadastrar Usuário</Title>
+        <Title>Cadastrar Usuários</Title>
 
         <ContainerInput>
           <div>
